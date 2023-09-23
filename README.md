@@ -17,3 +17,7 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+
+### Submission Score
+4 of 5 stars
+![score da.png](score%20da.png)
